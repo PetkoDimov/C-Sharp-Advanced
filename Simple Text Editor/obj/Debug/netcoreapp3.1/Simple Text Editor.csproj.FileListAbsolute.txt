@@ -1,0 +1,13 @@
+E:\SoftUni20\C# Advanced\Stack And Queue\Simple Text Editor\bin\Debug\netcoreapp3.1\Simple Text Editor.exe
+E:\SoftUni20\C# Advanced\Stack And Queue\Simple Text Editor\bin\Debug\netcoreapp3.1\Simple Text Editor.deps.json
+E:\SoftUni20\C# Advanced\Stack And Queue\Simple Text Editor\bin\Debug\netcoreapp3.1\Simple Text Editor.runtimeconfig.json
+E:\SoftUni20\C# Advanced\Stack And Queue\Simple Text Editor\bin\Debug\netcoreapp3.1\Simple Text Editor.runtimeconfig.dev.json
+E:\SoftUni20\C# Advanced\Stack And Queue\Simple Text Editor\bin\Debug\netcoreapp3.1\Simple Text Editor.dll
+E:\SoftUni20\C# Advanced\Stack And Queue\Simple Text Editor\bin\Debug\netcoreapp3.1\Simple Text Editor.pdb
+E:\SoftUni20\C# Advanced\Stack And Queue\Simple Text Editor\obj\Debug\netcoreapp3.1\Simple Text Editor.csprojAssemblyReference.cache
+E:\SoftUni20\C# Advanced\Stack And Queue\Simple Text Editor\obj\Debug\netcoreapp3.1\Simple Text Editor.AssemblyInfoInputs.cache
+E:\SoftUni20\C# Advanced\Stack And Queue\Simple Text Editor\obj\Debug\netcoreapp3.1\Simple Text Editor.AssemblyInfo.cs
+E:\SoftUni20\C# Advanced\Stack And Queue\Simple Text Editor\obj\Debug\netcoreapp3.1\Simple Text Editor.csproj.CoreCompileInputs.cache
+E:\SoftUni20\C# Advanced\Stack And Queue\Simple Text Editor\obj\Debug\netcoreapp3.1\Simple Text Editor.dll
+E:\SoftUni20\C# Advanced\Stack And Queue\Simple Text Editor\obj\Debug\netcoreapp3.1\Simple Text Editor.pdb
+E:\SoftUni20\C# Advanced\Stack And Queue\Simple Text Editor\obj\Debug\netcoreapp3.1\Simple Text Editor.genruntimeconfig.cache
