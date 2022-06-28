@@ -1,0 +1,13 @@
+E:\SoftUni20\C# Advanced\Stack And Queue\Basic Stack Operations\bin\Debug\netcoreapp3.1\Basic Stack Operations.exe
+E:\SoftUni20\C# Advanced\Stack And Queue\Basic Stack Operations\bin\Debug\netcoreapp3.1\Basic Stack Operations.deps.json
+E:\SoftUni20\C# Advanced\Stack And Queue\Basic Stack Operations\bin\Debug\netcoreapp3.1\Basic Stack Operations.runtimeconfig.json
+E:\SoftUni20\C# Advanced\Stack And Queue\Basic Stack Operations\bin\Debug\netcoreapp3.1\Basic Stack Operations.runtimeconfig.dev.json
+E:\SoftUni20\C# Advanced\Stack And Queue\Basic Stack Operations\bin\Debug\netcoreapp3.1\Basic Stack Operations.dll
+E:\SoftUni20\C# Advanced\Stack And Queue\Basic Stack Operations\bin\Debug\netcoreapp3.1\Basic Stack Operations.pdb
+E:\SoftUni20\C# Advanced\Stack And Queue\Basic Stack Operations\obj\Debug\netcoreapp3.1\Basic Stack Operations.csprojAssemblyReference.cache
+E:\SoftUni20\C# Advanced\Stack And Queue\Basic Stack Operations\obj\Debug\netcoreapp3.1\Basic Stack Operations.AssemblyInfoInputs.cache
+E:\SoftUni20\C# Advanced\Stack And Queue\Basic Stack Operations\obj\Debug\netcoreapp3.1\Basic Stack Operations.AssemblyInfo.cs
+E:\SoftUni20\C# Advanced\Stack And Queue\Basic Stack Operations\obj\Debug\netcoreapp3.1\Basic Stack Operations.csproj.CoreCompileInputs.cache
+E:\SoftUni20\C# Advanced\Stack And Queue\Basic Stack Operations\obj\Debug\netcoreapp3.1\Basic Stack Operations.dll
+E:\SoftUni20\C# Advanced\Stack And Queue\Basic Stack Operations\obj\Debug\netcoreapp3.1\Basic Stack Operations.pdb
+E:\SoftUni20\C# Advanced\Stack And Queue\Basic Stack Operations\obj\Debug\netcoreapp3.1\Basic Stack Operations.genruntimeconfig.cache

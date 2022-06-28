@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fashion Boutique", "Fashion Boutique.csproj", "{1ADD8595-A03F-4E83-BF9A-305BBC54B814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Songs", "..\Songs\Songs.csproj", "{43AA44DD-1813-4FE7-9C2C-50D2A8EC7B16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ADD8595-A03F-4E83-BF9A-305BBC54B814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ADD8595-A03F-4E83-BF9A-305BBC54B814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ADD8595-A03F-4E83-BF9A-305BBC54B814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ADD8595-A03F-4E83-BF9A-305BBC54B814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43AA44DD-1813-4FE7-9C2C-50D2A8EC7B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43AA44DD-1813-4FE7-9C2C-50D2A8EC7B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43AA44DD-1813-4FE7-9C2C-50D2A8EC7B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43AA44DD-1813-4FE7-9C2C-50D2A8EC7B16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E95E105-D840-494E-BC7D-0E0F47F11B48}
+	EndGlobalSection
+EndGlobal

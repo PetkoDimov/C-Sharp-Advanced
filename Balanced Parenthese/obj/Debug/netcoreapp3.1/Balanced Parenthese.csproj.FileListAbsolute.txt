@@ -1,0 +1,13 @@
+E:\SoftUni20\C# Advanced\Stack And Queue\Balanced Parenthese\bin\Debug\netcoreapp3.1\Balanced Parenthese.exe
+E:\SoftUni20\C# Advanced\Stack And Queue\Balanced Parenthese\bin\Debug\netcoreapp3.1\Balanced Parenthese.deps.json
+E:\SoftUni20\C# Advanced\Stack And Queue\Balanced Parenthese\bin\Debug\netcoreapp3.1\Balanced Parenthese.runtimeconfig.json
+E:\SoftUni20\C# Advanced\Stack And Queue\Balanced Parenthese\bin\Debug\netcoreapp3.1\Balanced Parenthese.runtimeconfig.dev.json
+E:\SoftUni20\C# Advanced\Stack And Queue\Balanced Parenthese\bin\Debug\netcoreapp3.1\Balanced Parenthese.dll
+E:\SoftUni20\C# Advanced\Stack And Queue\Balanced Parenthese\bin\Debug\netcoreapp3.1\Balanced Parenthese.pdb
+E:\SoftUni20\C# Advanced\Stack And Queue\Balanced Parenthese\obj\Debug\netcoreapp3.1\Balanced Parenthese.csprojAssemblyReference.cache
+E:\SoftUni20\C# Advanced\Stack And Queue\Balanced Parenthese\obj\Debug\netcoreapp3.1\Balanced Parenthese.AssemblyInfoInputs.cache
+E:\SoftUni20\C# Advanced\Stack And Queue\Balanced Parenthese\obj\Debug\netcoreapp3.1\Balanced Parenthese.AssemblyInfo.cs
+E:\SoftUni20\C# Advanced\Stack And Queue\Balanced Parenthese\obj\Debug\netcoreapp3.1\Balanced Parenthese.csproj.CoreCompileInputs.cache
+E:\SoftUni20\C# Advanced\Stack And Queue\Balanced Parenthese\obj\Debug\netcoreapp3.1\Balanced Parenthese.dll
+E:\SoftUni20\C# Advanced\Stack And Queue\Balanced Parenthese\obj\Debug\netcoreapp3.1\Balanced Parenthese.pdb
+E:\SoftUni20\C# Advanced\Stack And Queue\Balanced Parenthese\obj\Debug\netcoreapp3.1\Balanced Parenthese.genruntimeconfig.cache
