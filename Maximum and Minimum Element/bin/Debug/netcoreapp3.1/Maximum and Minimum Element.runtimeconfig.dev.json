@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Close2die\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Close2die\\.nuget\\packages"
+    ]
+  }
+}

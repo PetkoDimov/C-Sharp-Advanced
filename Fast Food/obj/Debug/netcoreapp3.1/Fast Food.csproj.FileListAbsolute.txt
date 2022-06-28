@@ -1,0 +1,13 @@
+E:\SoftUni20\C# Advanced\Stack And Queue\Fast Food\bin\Debug\netcoreapp3.1\Fast Food.exe
+E:\SoftUni20\C# Advanced\Stack And Queue\Fast Food\bin\Debug\netcoreapp3.1\Fast Food.deps.json
+E:\SoftUni20\C# Advanced\Stack And Queue\Fast Food\bin\Debug\netcoreapp3.1\Fast Food.runtimeconfig.json
+E:\SoftUni20\C# Advanced\Stack And Queue\Fast Food\bin\Debug\netcoreapp3.1\Fast Food.runtimeconfig.dev.json
+E:\SoftUni20\C# Advanced\Stack And Queue\Fast Food\bin\Debug\netcoreapp3.1\Fast Food.dll
+E:\SoftUni20\C# Advanced\Stack And Queue\Fast Food\bin\Debug\netcoreapp3.1\Fast Food.pdb
+E:\SoftUni20\C# Advanced\Stack And Queue\Fast Food\obj\Debug\netcoreapp3.1\Fast Food.csprojAssemblyReference.cache
+E:\SoftUni20\C# Advanced\Stack And Queue\Fast Food\obj\Debug\netcoreapp3.1\Fast Food.AssemblyInfoInputs.cache
+E:\SoftUni20\C# Advanced\Stack And Queue\Fast Food\obj\Debug\netcoreapp3.1\Fast Food.AssemblyInfo.cs
+E:\SoftUni20\C# Advanced\Stack And Queue\Fast Food\obj\Debug\netcoreapp3.1\Fast Food.csproj.CoreCompileInputs.cache
+E:\SoftUni20\C# Advanced\Stack And Queue\Fast Food\obj\Debug\netcoreapp3.1\Fast Food.dll
+E:\SoftUni20\C# Advanced\Stack And Queue\Fast Food\obj\Debug\netcoreapp3.1\Fast Food.pdb
+E:\SoftUni20\C# Advanced\Stack And Queue\Fast Food\obj\Debug\netcoreapp3.1\Fast Food.genruntimeconfig.cache
