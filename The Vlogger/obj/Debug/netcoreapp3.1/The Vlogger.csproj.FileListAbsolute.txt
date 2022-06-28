@@ -1,0 +1,13 @@
+E:\SoftUni20\C# Advanced\Sets And Dictionaries\The Vlogger\bin\Debug\netcoreapp3.1\The Vlogger.exe
+E:\SoftUni20\C# Advanced\Sets And Dictionaries\The Vlogger\bin\Debug\netcoreapp3.1\The Vlogger.deps.json
+E:\SoftUni20\C# Advanced\Sets And Dictionaries\The Vlogger\bin\Debug\netcoreapp3.1\The Vlogger.runtimeconfig.json
+E:\SoftUni20\C# Advanced\Sets And Dictionaries\The Vlogger\bin\Debug\netcoreapp3.1\The Vlogger.runtimeconfig.dev.json
+E:\SoftUni20\C# Advanced\Sets And Dictionaries\The Vlogger\bin\Debug\netcoreapp3.1\The Vlogger.dll
+E:\SoftUni20\C# Advanced\Sets And Dictionaries\The Vlogger\bin\Debug\netcoreapp3.1\The Vlogger.pdb
+E:\SoftUni20\C# Advanced\Sets And Dictionaries\The Vlogger\obj\Debug\netcoreapp3.1\The Vlogger.csprojAssemblyReference.cache
+E:\SoftUni20\C# Advanced\Sets And Dictionaries\The Vlogger\obj\Debug\netcoreapp3.1\The Vlogger.AssemblyInfoInputs.cache
+E:\SoftUni20\C# Advanced\Sets And Dictionaries\The Vlogger\obj\Debug\netcoreapp3.1\The Vlogger.AssemblyInfo.cs
+E:\SoftUni20\C# Advanced\Sets And Dictionaries\The Vlogger\obj\Debug\netcoreapp3.1\The Vlogger.csproj.CoreCompileInputs.cache
+E:\SoftUni20\C# Advanced\Sets And Dictionaries\The Vlogger\obj\Debug\netcoreapp3.1\The Vlogger.dll
+E:\SoftUni20\C# Advanced\Sets And Dictionaries\The Vlogger\obj\Debug\netcoreapp3.1\The Vlogger.pdb
+E:\SoftUni20\C# Advanced\Sets And Dictionaries\The Vlogger\obj\Debug\netcoreapp3.1\The Vlogger.genruntimeconfig.cache
