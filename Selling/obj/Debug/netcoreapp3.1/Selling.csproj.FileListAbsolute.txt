@@ -1,0 +1,13 @@
+E:\SoftUni20\C# Advanced\Exams\Selling\bin\Debug\netcoreapp3.1\Selling.exe
+E:\SoftUni20\C# Advanced\Exams\Selling\bin\Debug\netcoreapp3.1\Selling.deps.json
+E:\SoftUni20\C# Advanced\Exams\Selling\bin\Debug\netcoreapp3.1\Selling.runtimeconfig.json
+E:\SoftUni20\C# Advanced\Exams\Selling\bin\Debug\netcoreapp3.1\Selling.runtimeconfig.dev.json
+E:\SoftUni20\C# Advanced\Exams\Selling\bin\Debug\netcoreapp3.1\Selling.dll
+E:\SoftUni20\C# Advanced\Exams\Selling\bin\Debug\netcoreapp3.1\Selling.pdb
+E:\SoftUni20\C# Advanced\Exams\Selling\obj\Debug\netcoreapp3.1\Selling.csprojAssemblyReference.cache
+E:\SoftUni20\C# Advanced\Exams\Selling\obj\Debug\netcoreapp3.1\Selling.AssemblyInfoInputs.cache
+E:\SoftUni20\C# Advanced\Exams\Selling\obj\Debug\netcoreapp3.1\Selling.AssemblyInfo.cs
+E:\SoftUni20\C# Advanced\Exams\Selling\obj\Debug\netcoreapp3.1\Selling.csproj.CoreCompileInputs.cache
+E:\SoftUni20\C# Advanced\Exams\Selling\obj\Debug\netcoreapp3.1\Selling.dll
+E:\SoftUni20\C# Advanced\Exams\Selling\obj\Debug\netcoreapp3.1\Selling.pdb
+E:\SoftUni20\C# Advanced\Exams\Selling\obj\Debug\netcoreapp3.1\Selling.genruntimeconfig.cache

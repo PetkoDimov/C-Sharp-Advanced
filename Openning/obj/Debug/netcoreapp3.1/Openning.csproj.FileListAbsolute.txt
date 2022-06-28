@@ -1,0 +1,13 @@
+E:\SoftUni20\C# Advanced\Exams\Openning\bin\Debug\netcoreapp3.1\Openning.exe
+E:\SoftUni20\C# Advanced\Exams\Openning\bin\Debug\netcoreapp3.1\Openning.deps.json
+E:\SoftUni20\C# Advanced\Exams\Openning\bin\Debug\netcoreapp3.1\Openning.runtimeconfig.json
+E:\SoftUni20\C# Advanced\Exams\Openning\bin\Debug\netcoreapp3.1\Openning.runtimeconfig.dev.json
+E:\SoftUni20\C# Advanced\Exams\Openning\bin\Debug\netcoreapp3.1\Openning.dll
+E:\SoftUni20\C# Advanced\Exams\Openning\bin\Debug\netcoreapp3.1\Openning.pdb
+E:\SoftUni20\C# Advanced\Exams\Openning\obj\Debug\netcoreapp3.1\Openning.csprojAssemblyReference.cache
+E:\SoftUni20\C# Advanced\Exams\Openning\obj\Debug\netcoreapp3.1\Openning.AssemblyInfoInputs.cache
+E:\SoftUni20\C# Advanced\Exams\Openning\obj\Debug\netcoreapp3.1\Openning.AssemblyInfo.cs
+E:\SoftUni20\C# Advanced\Exams\Openning\obj\Debug\netcoreapp3.1\Openning.csproj.CoreCompileInputs.cache
+E:\SoftUni20\C# Advanced\Exams\Openning\obj\Debug\netcoreapp3.1\Openning.dll
+E:\SoftUni20\C# Advanced\Exams\Openning\obj\Debug\netcoreapp3.1\Openning.pdb
+E:\SoftUni20\C# Advanced\Exams\Openning\obj\Debug\netcoreapp3.1\Openning.genruntimeconfig.cache
