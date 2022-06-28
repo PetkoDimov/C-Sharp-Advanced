@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagoanl Difference", "Diagoanl Difference.csproj", "{13CB0F8C-4C5C-4AD1-83A4-B3E8C4A5B5A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square im Matrix", "..\Square im Matrix\Square im Matrix.csproj", "{989BBCE1-901E-4062-B2AF-0C0C86F09A10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13CB0F8C-4C5C-4AD1-83A4-B3E8C4A5B5A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13CB0F8C-4C5C-4AD1-83A4-B3E8C4A5B5A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13CB0F8C-4C5C-4AD1-83A4-B3E8C4A5B5A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13CB0F8C-4C5C-4AD1-83A4-B3E8C4A5B5A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{989BBCE1-901E-4062-B2AF-0C0C86F09A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{989BBCE1-901E-4062-B2AF-0C0C86F09A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{989BBCE1-901E-4062-B2AF-0C0C86F09A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{989BBCE1-901E-4062-B2AF-0C0C86F09A10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6814D646-BD03-4F5D-8D57-45989C0BE972}
+	EndGlobalSection
+EndGlobal
