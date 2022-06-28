@@ -1,0 +1,13 @@
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Maximal Sum\bin\Debug\netcoreapp3.1\Maximal Sum.exe
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Maximal Sum\bin\Debug\netcoreapp3.1\Maximal Sum.deps.json
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Maximal Sum\bin\Debug\netcoreapp3.1\Maximal Sum.runtimeconfig.json
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Maximal Sum\bin\Debug\netcoreapp3.1\Maximal Sum.runtimeconfig.dev.json
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Maximal Sum\bin\Debug\netcoreapp3.1\Maximal Sum.dll
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Maximal Sum\bin\Debug\netcoreapp3.1\Maximal Sum.pdb
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Maximal Sum\obj\Debug\netcoreapp3.1\Maximal Sum.csprojAssemblyReference.cache
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Maximal Sum\obj\Debug\netcoreapp3.1\Maximal Sum.AssemblyInfoInputs.cache
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Maximal Sum\obj\Debug\netcoreapp3.1\Maximal Sum.AssemblyInfo.cs
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Maximal Sum\obj\Debug\netcoreapp3.1\Maximal Sum.csproj.CoreCompileInputs.cache
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Maximal Sum\obj\Debug\netcoreapp3.1\Maximal Sum.dll
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Maximal Sum\obj\Debug\netcoreapp3.1\Maximal Sum.pdb
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Maximal Sum\obj\Debug\netcoreapp3.1\Maximal Sum.genruntimeconfig.cache

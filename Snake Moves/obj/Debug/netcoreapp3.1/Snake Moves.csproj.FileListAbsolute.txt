@@ -1,0 +1,13 @@
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Snake Moves\bin\Debug\netcoreapp3.1\Snake Moves.exe
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Snake Moves\bin\Debug\netcoreapp3.1\Snake Moves.deps.json
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Snake Moves\bin\Debug\netcoreapp3.1\Snake Moves.runtimeconfig.json
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Snake Moves\bin\Debug\netcoreapp3.1\Snake Moves.runtimeconfig.dev.json
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Snake Moves\bin\Debug\netcoreapp3.1\Snake Moves.dll
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Snake Moves\bin\Debug\netcoreapp3.1\Snake Moves.pdb
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Snake Moves\obj\Debug\netcoreapp3.1\Snake Moves.csprojAssemblyReference.cache
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Snake Moves\obj\Debug\netcoreapp3.1\Snake Moves.AssemblyInfoInputs.cache
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Snake Moves\obj\Debug\netcoreapp3.1\Snake Moves.AssemblyInfo.cs
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Snake Moves\obj\Debug\netcoreapp3.1\Snake Moves.csproj.CoreCompileInputs.cache
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Snake Moves\obj\Debug\netcoreapp3.1\Snake Moves.dll
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Snake Moves\obj\Debug\netcoreapp3.1\Snake Moves.pdb
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Snake Moves\obj\Debug\netcoreapp3.1\Snake Moves.genruntimeconfig.cache
