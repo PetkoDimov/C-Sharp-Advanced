@@ -1,0 +1,13 @@
+E:\SoftUni20\C# Advanced\Exam\Vet Clinic\bin\Debug\netcoreapp3.1\VetClinic.exe
+E:\SoftUni20\C# Advanced\Exam\Vet Clinic\bin\Debug\netcoreapp3.1\VetClinic.deps.json
+E:\SoftUni20\C# Advanced\Exam\Vet Clinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.json
+E:\SoftUni20\C# Advanced\Exam\Vet Clinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.dev.json
+E:\SoftUni20\C# Advanced\Exam\Vet Clinic\bin\Debug\netcoreapp3.1\VetClinic.dll
+E:\SoftUni20\C# Advanced\Exam\Vet Clinic\bin\Debug\netcoreapp3.1\VetClinic.pdb
+E:\SoftUni20\C# Advanced\Exam\Vet Clinic\obj\Debug\netcoreapp3.1\VetClinic.csprojAssemblyReference.cache
+E:\SoftUni20\C# Advanced\Exam\Vet Clinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfoInputs.cache
+E:\SoftUni20\C# Advanced\Exam\Vet Clinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfo.cs
+E:\SoftUni20\C# Advanced\Exam\Vet Clinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.CoreCompileInputs.cache
+E:\SoftUni20\C# Advanced\Exam\Vet Clinic\obj\Debug\netcoreapp3.1\VetClinic.dll
+E:\SoftUni20\C# Advanced\Exam\Vet Clinic\obj\Debug\netcoreapp3.1\VetClinic.pdb
+E:\SoftUni20\C# Advanced\Exam\Vet Clinic\obj\Debug\netcoreapp3.1\VetClinic.genruntimeconfig.cache
