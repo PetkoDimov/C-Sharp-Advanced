@@ -1,0 +1,13 @@
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.exe
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.deps.json
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.runtimeconfig.json
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.runtimeconfig.dev.json
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.dll
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.pdb
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.csprojAssemblyReference.cache
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.AssemblyInfoInputs.cache
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.AssemblyInfo.cs
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.csproj.CoreCompileInputs.cache
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.dll
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.pdb
+E:\SoftUni20\C# Advanced\Multidimentional Arrays\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.genruntimeconfig.cache

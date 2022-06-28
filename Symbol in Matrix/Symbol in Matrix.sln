@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symbol in Matrix", "Symbol in Matrix.csproj", "{73D8A50B-068B-4077-B961-77764316FAAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximal Sum", "..\Maximal Sum\Maximal Sum.csproj", "{05D78D04-73CA-4CB2-9AE8-9B1806C15837}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73D8A50B-068B-4077-B961-77764316FAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D8A50B-068B-4077-B961-77764316FAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D8A50B-068B-4077-B961-77764316FAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D8A50B-068B-4077-B961-77764316FAAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D78D04-73CA-4CB2-9AE8-9B1806C15837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D78D04-73CA-4CB2-9AE8-9B1806C15837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D78D04-73CA-4CB2-9AE8-9B1806C15837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D78D04-73CA-4CB2-9AE8-9B1806C15837}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DF1FF03-B76A-4321-BF87-32C1AC7DECD0}
+	EndGlobalSection
+EndGlobal
