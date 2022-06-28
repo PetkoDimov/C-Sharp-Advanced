@@ -1,0 +1,13 @@
+E:\SoftUni20\C# Advanced\Stack And Queue\Stack Sum\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.exe
+E:\SoftUni20\C# Advanced\Stack And Queue\Stack Sum\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.deps.json
+E:\SoftUni20\C# Advanced\Stack And Queue\Stack Sum\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.runtimeconfig.json
+E:\SoftUni20\C# Advanced\Stack And Queue\Stack Sum\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.runtimeconfig.dev.json
+E:\SoftUni20\C# Advanced\Stack And Queue\Stack Sum\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.dll
+E:\SoftUni20\C# Advanced\Stack And Queue\Stack Sum\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.pdb
+E:\SoftUni20\C# Advanced\Stack And Queue\Stack Sum\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.csprojAssemblyReference.cache
+E:\SoftUni20\C# Advanced\Stack And Queue\Stack Sum\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.AssemblyInfoInputs.cache
+E:\SoftUni20\C# Advanced\Stack And Queue\Stack Sum\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.AssemblyInfo.cs
+E:\SoftUni20\C# Advanced\Stack And Queue\Stack Sum\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.csproj.CoreCompileInputs.cache
+E:\SoftUni20\C# Advanced\Stack And Queue\Stack Sum\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.dll
+E:\SoftUni20\C# Advanced\Stack And Queue\Stack Sum\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.pdb
+E:\SoftUni20\C# Advanced\Stack And Queue\Stack Sum\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.genruntimeconfig.cache

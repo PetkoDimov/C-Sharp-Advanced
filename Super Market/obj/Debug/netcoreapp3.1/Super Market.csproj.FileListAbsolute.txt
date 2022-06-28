@@ -1,0 +1,13 @@
+E:\SoftUni20\C# Advanced\Stack And Queue\Super Market\bin\Debug\netcoreapp3.1\Super Market.exe
+E:\SoftUni20\C# Advanced\Stack And Queue\Super Market\bin\Debug\netcoreapp3.1\Super Market.deps.json
+E:\SoftUni20\C# Advanced\Stack And Queue\Super Market\bin\Debug\netcoreapp3.1\Super Market.runtimeconfig.json
+E:\SoftUni20\C# Advanced\Stack And Queue\Super Market\bin\Debug\netcoreapp3.1\Super Market.runtimeconfig.dev.json
+E:\SoftUni20\C# Advanced\Stack And Queue\Super Market\bin\Debug\netcoreapp3.1\Super Market.dll
+E:\SoftUni20\C# Advanced\Stack And Queue\Super Market\bin\Debug\netcoreapp3.1\Super Market.pdb
+E:\SoftUni20\C# Advanced\Stack And Queue\Super Market\obj\Debug\netcoreapp3.1\Super Market.csprojAssemblyReference.cache
+E:\SoftUni20\C# Advanced\Stack And Queue\Super Market\obj\Debug\netcoreapp3.1\Super Market.AssemblyInfoInputs.cache
+E:\SoftUni20\C# Advanced\Stack And Queue\Super Market\obj\Debug\netcoreapp3.1\Super Market.AssemblyInfo.cs
+E:\SoftUni20\C# Advanced\Stack And Queue\Super Market\obj\Debug\netcoreapp3.1\Super Market.csproj.CoreCompileInputs.cache
+E:\SoftUni20\C# Advanced\Stack And Queue\Super Market\obj\Debug\netcoreapp3.1\Super Market.dll
+E:\SoftUni20\C# Advanced\Stack And Queue\Super Market\obj\Debug\netcoreapp3.1\Super Market.pdb
+E:\SoftUni20\C# Advanced\Stack And Queue\Super Market\obj\Debug\netcoreapp3.1\Super Market.genruntimeconfig.cache
